@@ -18,7 +18,7 @@
     내용과 같습니다.
 
 
-3. 기타 사항 
-
+3. 기타 사항
+    
     Bubble Sort, Selection Sort, Insertion Sort 모두 10만개 단위에서 시간이 너무 오래걸렸습니다.
     하지만, Merge Sort, Quick Sort 1,2,3 정상적으로 시간이 출력 되었습니다.
